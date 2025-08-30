@@ -23,11 +23,13 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Project Structure
 
 ```bash
-social-links-profile/
+product-review-card-component/
 │
 ├── images/
-│   ├── avatar-jessica.jpeg
-│   └── favicon-32x32.png
+│   ├── favicon-32x32.png
+├── ├── icon-cart.svg
+├── ├── image-product-desktop.jpg
+│   └── image-product-mobile.jpg
 ├── index.html
 ├── README.md
 └── style.css
