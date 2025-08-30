@@ -42,14 +42,14 @@ To view this project locally:
 1. Clone this repository.
 
 ```bash
-git clone git@github.com:Esther-Omono/social-links-profile.git
+git clone git@github.com:Esther-Omono/product-review-card-component.git
 
 ```
 
 2. Navigate to the project directory.
 
 ```bash
-cd social-links-profile
+cd product-review-card-component
 ```
 
 3. Open index.html in your browser to see the card.
